@@ -107,7 +107,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (= 3.2.2)
   jquery-rails
-  pg (= 0.12.2)
+  pg
   rails (= 3.2.3)
   rb-readline
   sass-rails (= 3.2.4)
